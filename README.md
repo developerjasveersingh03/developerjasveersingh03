@@ -7,7 +7,7 @@ Currently, I'm expanding my expertise in backend development while building proj
 
 📧 Email: developer.jasveersingh03@gmail.com
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/jasveer-singh-252aab3a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developer.jasveersingh03@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasveer-singh-252aab3a6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developer.jasveersingh03@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
